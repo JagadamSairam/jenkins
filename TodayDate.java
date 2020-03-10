@@ -7,7 +7,7 @@ public static void main(String[] args){
 
 LocalDate date=LocalDate.now();
 System.out.println("Today Date is "+ date);
-LocalTime time = Localtime.now();
+LocalTime time = LocalTime.now();
 System.out.println("Time is "+time);
 }
 
